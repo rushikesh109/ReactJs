@@ -1,2 +1,3 @@
 Why React is used?
--makes easy to manage and build complex-frontend
+-makes easy to manage and build complex-frontend.
+
